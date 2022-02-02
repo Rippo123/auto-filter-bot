@@ -90,7 +90,7 @@ python3 -m bot
 </p>
 </details>
 
-## Credits
+# Credits
 
 - Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
 - Thanks to Official Repository [AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2](https://github.com/AlbertEinsteinTG)
