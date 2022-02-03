@@ -7,7 +7,7 @@ Do Fork And Star The Repository If You Liked It.
     <img src="https://img.shields.io/github/forks/tgbotsProject/Auto-Filter-Bot?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/tgbotsProject/Auto-Filter-Bot">
+  <a href="https://github.com/Rippo123/Auto-Filter-Bot">
     <img src="https://img.shields.io/github/stars/tgbotsProject/Auto-Filter-Bot?style=social">
   </a>
 </p>
